@@ -10,6 +10,8 @@ pandas = "*"
 numpy = "*"
 jupyter = "*"
 requests = "*"
+lxml = "*"
+geocoder = "*"
 
 [requires]
 python_version = "3.6"
