@@ -1,0 +1,24 @@
+--2020-01-18 13:43:03--  https://data.london.gov.uk/download/london-borough-profiles/c1693b82-68b1-44ee-beb2-3decf17dc1f8/london-borough-profiles.csv
+Resolving data.london.gov.uk (data.london.gov.uk)... 2600:9000:21f8:c400:1b:a243:2080:93a1, 2600:9000:21f8:3c00:1b:a243:2080:93a1, 2600:9000:21f8:fe00:1b:a243:2080:93a1, ...
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:c400:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:3c00:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:fe00:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:6e00:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:bc00:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:2000:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:f400:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|2600:9000:21f8:a800:1b:a243:2080:93a1|:443... failed: Connection timed out.
+Connecting to data.london.gov.uk (data.london.gov.uk)|13.225.249.52|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/london-borough-profiles/2017-01-26T18%3A50%3A00/london-borough-profiles.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20200118%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20200118T081716Z&X-Amz-Expires=300&X-Amz-Signature=20fa35047652f4b7afa6c807f13abe069104566943ea6914225e0cd92fb37d29&X-Amz-SignedHeaders=host [following]
+--2020-01-18 13:47:16--  https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/london-borough-profiles/2017-01-26T18%3A50%3A00/london-borough-profiles.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20200118%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20200118T081716Z&X-Amz-Expires=300&X-Amz-Signature=20fa35047652f4b7afa6c807f13abe069104566943ea6914225e0cd92fb37d29&X-Amz-SignedHeaders=host
+Resolving airdrive-secure.s3-eu-west-1.amazonaws.com (airdrive-secure.s3-eu-west-1.amazonaws.com)... 52.218.98.64
+Connecting to airdrive-secure.s3-eu-west-1.amazonaws.com (airdrive-secure.s3-eu-west-1.amazonaws.com)|52.218.98.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20366 (20K) [text/csv]
+Saving to: ‘london-borough-profiles.csv.3’
+
+     0K .......... .........                                  100%  129K=0.2s
+
+2020-01-18 13:47:17 (129 KB/s) - ‘london-borough-profiles.csv.3’ saved [20366/20366]
+
